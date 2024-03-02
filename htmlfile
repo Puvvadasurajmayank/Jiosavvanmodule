@@ -6,8 +6,8 @@
     </head>
     <body>
         <div class="MainConteiner">
-            <div id="SectionHead" class="d-flex flex-row justify-cotent-center">
-                <h1 class="text" onclick="display('SectionHead')">JioSavan</h1>
+            <div id="sectionHead" class="d-flex flex-row justify-cotent-center">
+                <h1 class="text" href="#sectionHead">JioSavan</h1>
                 <p class="textpara">Music</p>
                 <p class="textpara">Podcasts</p>
                 <p class="textpara">GoPro</p>
